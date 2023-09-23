@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ramzialhaddadtm
 - 👀 I’m interested in C# & Game Development!
-- 🌱 I’m currently learning Unity Game Dev.
+- 🌱 I’m currently learning ~~Unity Game Dev~~ Godot Game Engine.
 - 📫 You can reach me by my email on the left!
 
 <!---
