@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ramzialhaddad
-- 👀 I’m interested in C#, Game Development and Angular!
-- 🌱 I’m currently learning Blazor, Angular & Godot Game Engine.
+- 👀 I’m interested in C#, Game and Web Development!
+- 🌱 I’m currently learning Blazor.
 - 📫 You can reach me at ramziah.jobs (at) pm.me
 
 <!---
