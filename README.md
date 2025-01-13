@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ramzialhaddad
 - 👀 I’m interested in C#, Game and Web Development!
-- 🌱 I’m currently learning Blazor.
+- 🌱 I’m currently learning Blazor & Svelte.
 - 📫 You can reach me at ramziah.jobs (at) pm.me
 
 <!---
